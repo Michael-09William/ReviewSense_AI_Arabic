@@ -93,6 +93,14 @@ relying blindly on AraBERT's native `ArabertPreprocessor` didn't yield the absol
 ## 3.Launch the Web App:
     streamlit run app.py
 
+---
+## EValuation
+
+Image1: (RevSense.png)
+Image2: (RS1.png)
+Image3: (RS2.png)
+Image4: (RS3.png)
+Image5: (RS5.png)
 
 
 
