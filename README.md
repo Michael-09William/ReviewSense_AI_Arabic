@@ -8,7 +8,6 @@ ReviewSense AI is a comprehensive Arabic Sentiment Analysis suite capable of pro
 
 ## 🌎 Language Selection / اختيار اللغة
 - [English Version](#english-documentation)
-- [النسخة العربية](#النسخة-العربية)
 
 ---
 
@@ -93,5 +92,8 @@ relying blindly on AraBERT's native `ArabertPreprocessor` didn't yield the absol
 
 ## 3.Launch the Web App:
     streamlit run app.py
+
+
+
 
 
