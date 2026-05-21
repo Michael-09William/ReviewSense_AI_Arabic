@@ -49,7 +49,6 @@ if __name__=='__main__':
     print("-" * 50)
 
     for text in sentences:
-    # لو عايز تنظف النص قبل ما تدخله الموديل:
         cleaned_text = clean_text(text)
         result, confidence = predict(cleaned_text)
         print(f"📝 النص: {text}")
